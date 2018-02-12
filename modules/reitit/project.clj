@@ -9,4 +9,5 @@
   :dependencies [[metosin/reitit-core]
                  [metosin/reitit-ring]
                  [metosin/reitit-spec]
-                 [metosin/reitit-schema]])
+                 [metosin/reitit-schema]
+                 [metosin/reitit-swagger]])

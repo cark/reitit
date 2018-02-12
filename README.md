@@ -33,6 +33,7 @@ Optionally, the parts can be required separately:
 [metosin/reitit-ring "0.1.0-SNAPSHOT"] ; ring-router
 [metosin/reitit-spec "0.1.0-SNAPSHOT"] ; spec coercion
 [metosin/reitit-schema "0.1.0-SNAPSHOT"] ; schema coercion
+[metosin/reitit-swagger "0.1.0-SNAPSHOT"] ; swagger docs
 ```
 
 ## Quick start
